@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 20%;
+}
+
+#titulo{
+    font:normal 50px Arial;
+}
+.caixa{
+    width: 200px;
+    height: 100px;
+
+    text-align: center;
+    font-size: 30px;
+}
+
+#botao{
+    margin: 20px;
+    width: 100px;
+    height: 50px;
+}
